@@ -11,4 +11,4 @@ The code uses the features stored in the files stored in the folder "feature_fil
 
 To replicate the classifiers, you must first save all classifiers which you can find in the folder "Classifier_Manuscript" and specify the respective path in the each classifier script (marked in the code with add*).
 
-To reproduce the figures displayed in the manuscript, use the respective code, which is stored in the folder "figures".
+To reproduce the figures displayed in the manuscript, use the respective code, which is stored in the folder "code_figures".
