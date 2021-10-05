@@ -1,6 +1,6 @@
 # ALS_PLRNN_classification
 # code supporting the results reported in "Classification of amyotrophic lateral sclerosis by brain volume, connectivity, and network dynamics" (Human Brain Mapping, 2021)
-# by Thome, Janine; Steinbach, Robert; Grosskreutz, Julian; Durstewitz, Daniel; Koppe, Georgia
+# by Thome, J.; Steinbach, R.; Grosskreutz, J.; Durstewitz, D.; Koppe, G.
 
 If you have any questions, please contact janine.thome@zi-mannheim.de
 
