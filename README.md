@@ -9,6 +9,8 @@ The multimodal classifiers (restults section 3.4-3.6) can be replicated with the
 
 The code uses the features stored in the files stored in the folder "feature_files", respectively. The relevant filename is specified in the respective code and does not need to be adjusted. 
 
-To replicate the classifiers, you must first save all classifiers which you can find in the folder "Classifier_Manuscript" and specify the respective path in  each classification-script (marked in the code with "add*").
+To replicate the classifiers, please contact me so that I can send the classifiers presented in the paper (due to the size of the files, they could not be uploaded).
 
 To reproduce the figures displayed in the manuscript, use the respective code, which is stored in the folder "code_figures".
+
+To obtain an in-depth view on the extraction of the dynamics features please have a look at the script HBM_ALS_get_features_rsDyn.m
