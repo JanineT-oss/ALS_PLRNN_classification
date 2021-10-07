@@ -2,7 +2,7 @@
 # code supporting the results reported in "Classification of amyotrophic lateral sclerosis by brain volume, connectivity, and network dynamics" (Human Brain Mapping, 2021)
 # by Thome, J.; Steinbach, R.; Grosskreutz, J.; Durstewitz, D.; Koppe, G.
 
-If you have any questions, please contact janine.thome@zi-mannheim.de
+If you have any questions, please contact georgia.koppe@zi-mannheim.de or janine.thome@zi-mannheim.de
 
 The individual classifiers (results section 3.1-3-3) can be replicated with the following scripts: classification_1* - classification_3*.m.
 The multimodal classifiers (restults section 3.4-3.6) can be replicated with the following scripts: classification_4* - classification_7*.m.
