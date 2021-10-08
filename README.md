@@ -11,6 +11,6 @@ The multimodal classifiers (restults section 3.4-3.6) can be replicated with the
 Neuroimaging features can be found in "feature_files". 
 To obtain an in-depth view on the extraction of the dynamics features please have a look at the script HBM_ALS_get_features_rsDyn.m
 To reproduce the figures presented in the manuscript use code stored in here: "code_figures".
-The original classifiers will be send upon request (janine.thome@zi-mannheim.de). 
+The original classifiers will be send upon request (janine.thome@zi-mannheim.de). Please note that these are necessary to replicate the classifiers. Due to the file size these could not be uploaded.
 
 
