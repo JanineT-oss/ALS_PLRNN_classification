@@ -1,4 +1,5 @@
-# MATLAB Code and data for Thome et al. (2021), Human Brain Mapping
+# ALS PLRNN classification
+MATLAB Code and data for Thome et al. (2021), Human Brain Mapping
 "Classification of amyotrophic lateral sclerosis by brain volume, connectivity, and network dynamics" 
 
 In case of questions or comments, please contact georgia.koppe@zi-mannheim.de or janine.thome@zi-mannheim.de.
